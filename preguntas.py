@@ -34,10 +34,10 @@ def pregunta_01():
     X_reshaped = np.reshape(x,(-1,1))
 
     # Imprima las nuevas dimensiones de `y`
-    print(y.shape)
+    print(y_reshaped.shape)
 
     # Imprima las nuevas dimensiones de `X`
-    print(x.shape)
+    print(X_reshaped.shape)
 
 
 def pregunta_02():
