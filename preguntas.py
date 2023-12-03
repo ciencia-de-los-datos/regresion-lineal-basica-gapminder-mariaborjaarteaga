@@ -35,7 +35,7 @@ def pregunta_01():
 
     # Imprima las nuevas dimensiones de `y`
     print(y_reshaped.shape)
-
+ 
     # Imprima las nuevas dimensiones de `X`
     print(X_reshaped.shape)
 
